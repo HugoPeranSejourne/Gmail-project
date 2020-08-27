@@ -1,6 +1,3 @@
 # README
+BEsoin de changer la db en drop et recharger le tout pour la lancer
 
-Bienvenue dans cette réplique d'une boîte de réception
-type Gmail.
-
-Bonne correction !
